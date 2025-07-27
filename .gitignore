@@ -5,3 +5,9 @@ __pycache__/
 .vscode/
 .idea/
 .cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
