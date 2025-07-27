@@ -1,5 +1,12 @@
 # Lograven
 
+[![Build](https://img.shields.io/github/actions/workflow/status/your-username/lograven/python-app.yml?label=Build&logo=github)](https://github.com/your-username/lograven/actions)
+[![License](https://img.shields.io/github/license/your-username/lograven?color=blue)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python)](https://www.python.org/downloads/)
+[![Issues](https://img.shields.io/github/issues/your-username/lograven)](https://github.com/your-username/lograven/issues)
+[![Stars](https://img.shields.io/github/stars/your-username/lograven?style=social)](https://github.com/your-username/lograven)
+
+
 > **Modular, local-first log Q&A engine for large-scale logs (100k–500k tokens), featuring token-aware chunking, FAISS-powered retrieval, and optional local LLM inference.**
 
 ---
@@ -174,7 +181,5 @@ log_data = [
 🔐 License
 MIT License © 2025
 
----
 
-Let me know if you'd like to add badges, examples of output, or Hugging Face offline caching instructions.
 
